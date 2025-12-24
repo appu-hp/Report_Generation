@@ -15,8 +15,8 @@ from vespa.application import Vespa
 
 app = Vespa(
     url=os.getenv("VESPA_ENDPOINT"),
-    cert=os.getenv("VESPA_CERT"),
-    key=os.getenv("VESPA_KEY")
+    cert="/Users/shivamjogdand/Desktop/Learning/DeepAgents/Report_Generation_Git/Report_Generation/certs/public.pem",
+    key="/Users/shivamjogdand/Desktop/Learning/DeepAgents/Report_Generation_Git/Report_Generation/certs/private.pem"
 )
 
 @tool
