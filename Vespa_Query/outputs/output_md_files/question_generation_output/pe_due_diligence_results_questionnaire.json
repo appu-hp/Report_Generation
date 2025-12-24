@@ -1,0 +1,186 @@
+[
+    {
+        "section_title": "CONSOLIDATED STATEMENT OF FINANCIAL POSITION",
+        "timestamp": "Wed Dec 24 21:14:01 2025",
+        "due_diligence_inquiries": [
+            {
+                "question": "The balance sheet reflects a significant reduction in 'Assets held for sale' (from SAR 15.4B to SAR 3.6B) and associated liabilities, alongside a sharp decline in 'Zakat payable' (from SAR 1.4B to SAR 0.1B) and 'Current Provisions' (from SAR 1.1B to SAR 0.1B). What is the LTM Free Cash Flow Conversion adjusted for the impact of these asset disposals and potential one-time P&L benefits from provision/Zakat releases? Specifically, provide a bridge showing how these non-recurring items influenced reported operating cash flow and the material increase in 'Other current assets and receivables' (SAR 5B+).",
+                "api_response": {
+                    "response": "The provided documents do not contain the specific financial details required to calculate the LTM Free Cash Flow Conversion adjusted for the impact of asset disposals, Zakat payable, and current provision releases, nor do they provide a detailed bridge showing their influence on reported operating cash flow and the increase in 'Other current assets and receivables'.",
+                    "reasoning": "The documents provide the Net Cash Flow from Operating Activities for FY2025 (₹ 457.64 million) and FY2024 (₹ 2,412.57 million), and Free Cash Flow for FY2025 (₹ 105.81 million) and FY2024 (₹ (224.98) million) [16](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin/blue_jet_healthcare_ltd_in_fr_2025.pdf#page=49). They also mention an increase in net working capital in FY2025 due to increased inventory holding period and trade receivables, leading to an elongated working capital cycle from 92 days in FY2024 to 157 days in FY2025 [16](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin/blue_jet_healthcare_ltd_in_fr_2025.pdf#page=49), [22](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin/blue_jet_healthcare_ltd_in_fr_2025.pdf#page=51). However, the documents do not provide the specific values for the reduction in 'Assets held for sale' (SAR 15.4B to SAR 3.6B), the decline in 'Zakat payable' (SAR 1.4B to SAR 0.1B), 'Current Provisions' (SAR 1.1B to SAR 0.1B), or the material increase in 'Other current assets and receivables' (SAR 5B+) as stated in the query. Consequently, a detailed adjustment to LTM Free Cash Flow Conversion and a bridge showing the influence of these non-recurring items on operating cash flow cannot be constructed from the provided information.",
+                    "sources": [
+                        {
+                            "page_number": 49,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin/blue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 51,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin/blue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        }
+                    ],
+                    "confidence_level": "Low"
+                }
+            },
+            {
+                "question": "Total non-current assets, particularly Property, Plant and Equipment (Note 7) and Investments in associates and joint ventures (Note 10), have decreased by SAR 7.1 billion and SAR 5.8 billion respectively, in 2024. Considering the context of high depreciation (SAR 11.4B) and potentially inadequate 'Repairs and Maintenance' (SAR 4.2B) as provided, what is the current ROIC trend for the core operating assets, excluding divested entities? Provide an LTM bridge analysis of CAPEX, depreciation, and asset disposals to demonstrate whether the remaining asset base is being sufficiently reinvested in to sustain future earnings or if we are seeing asset stripping.",
+                "api_response": {
+                    "response": "The Return on Capital Employed (ROCE) for Blue Jet Healthcare Limited shows a positive trend, increasing from 26.01% in FY2024 to 35.85% in FY2025. An LTM bridge analysis for Property, Plant and Equipment (PPE) for FY2025 indicates substantial reinvestment, with CAPEX significantly exceeding depreciation, suggesting the asset base is being sufficiently reinvested in to sustain future earnings, rather than asset stripping. The premise of the query regarding a decrease in non-current assets and specific figures in SAR is not supported by the provided financial statements, which are in ₹ million.",
+                    "reasoning": "The Return on Capital Employed (ROCE), a proxy for ROIC, for Blue Jet Healthcare Limited increased from 26.01% in FY2024 to 35.85% in FY2025, indicating a positive trend [8](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=49), [9](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=32). The company's financial statements are presented in ₹ million, not SAR, and the figures mentioned in the query (e.g., SAR 7.1 billion decrease in PPE) do not align with the provided data. Property, Plant and Equipment (PPE) actually increased from ₹ 1,491.49 million as of March 31, 2024, to ₹ 2,596.42 million as of March 31, 2025 [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=165). Furthermore, the company explicitly states it does not have any investments in associates or joint ventures [5](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Ffr2024.pdf#page=37). Information on 'Repairs and Maintenance' (SAR 4.2B) is not available in the provided documents. For the LTM bridge analysis of PPE for FY2025 (year ended March 31, 2025): The opening net block of tangible assets was ₹ 1,491.49 million as of April 1, 2024 [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=185). Additions (CAPEX) to the gross block during FY2025 amounted to ₹ 1,266.53 million [3](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=184). Depreciation for the year was ₹ 160.41 million [3](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=184). Net disposals (deductions from gross block of ₹ 9.74 million minus deductions from accumulated depreciation of ₹ 8.44 million) resulted in a net reduction of ₹ 1.30 million [3](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=184). This leads to a closing net block of ₹ 2,596.31 million (1,491.49 + 1,266.53 - 160.41 - 1.30), which reconciles with the reported closing balance of ₹ 2,596.42 million as of March 31, 2025 [3](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=184). The CAPEX of ₹ 1,266.53 million significantly surpasses the depreciation of ₹ 160.41 million, indicating strong reinvestment in the asset base and refuting any notion of asset stripping. Minor asset disposals (₹ 1.30 million net) do not suggest significant divestments of core operating assets. The overall trend points to growth and reinvestment.",
+                    "sources": [
+                        {
+                            "page_number": 165,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 186,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 184,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 185,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 37,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Ffr2024.pdf"
+                        },
+                        {
+                            "page_number": 200,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 121,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Ffr2024.pdf"
+                        },
+                        {
+                            "page_number": 49,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 32,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        }
+                    ],
+                    "confidence_level": "High"
+                }
+            },
+            {
+                "question": "Despite a seemingly healthy working capital position of SAR 46 billion, total current liabilities stand at SAR 45.3 billion, which is significantly higher than the SAR 30.5 billion cash on hand. Explain the company's detailed liquidity management strategy. Specifically, quantify the working capital intensity and provide a granular breakdown of how the SAR 19.6 billion 'Other current liabilities' are financed. Is the company relying on extended payment terms for trade payables or other forms of short-term financing to cover operational gaps, which could signal structural subordination for new debt holders?",
+                "api_response": {
+                    "response": "The company's liquidity management strategy is centered on maintaining a debt-free status and managing an elongated working capital cycle. The working capital intensity for FY2025 was 157 days. The company does not rely on extended payment terms for trade payables to cover operational gaps, and its debt-free position mitigates structural subordination risk for new debt holders. A granular breakdown of how 'Other current liabilities' are financed is not available in the provided documents.",
+                    "reasoning": "The company's working capital intensity, measured by Net Working Capital Days, was 157 days in FY2025, an increase from 92 days in FY2024 [2](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=49). This elongation is primarily due to a high inventory holding period and long collection periods from customers, indicating the company extends credit rather than relying on extended payment terms from suppliers [3](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=51). The company generated ₹ 457.64 million in net cash flow from operating activities in FY2025 and had ₹ 3,064.92 million in net cash (including investments) as of March 31, 2025 [2](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=49). Crucially, the company is debt-free, with 'Net Debt' considered nil for both FY2025 and FY2024, which means there is no existing debt to be structurally subordinated for new debt holders [2](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=49), [12](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=212). The company also monitors foreign exchange risk and undertakes hedging transactions as required [3](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=51). The provided documents do not contain a granular breakdown of how the specific SAR 19.6 billion 'Other current liabilities' are financed, nor do they provide the financial figures in SAR currency as stated in the query.",
+                    "sources": [
+                        {
+                            "page_number": 49,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 51,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 212,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        }
+                    ],
+                    "confidence_level": "Medium"
+                }
+            },
+            {
+                "question": "The prompt indicates a SAR 1.2 billion 'Exchange difference on translation' loss in 2024, signaling significant foreign currency exposure, likely exacerbated by the SAR/USD peg. With SAR 28.1 billion in total debt and SAR 156.8 billion in equity attributable to parent holders, what is the company's sensitivity analysis to a hypothetical 5% and 10% revaluation or de-pegging of the Saudi Riyal? Provide a stress-tested LTM debt-to-equity ratio and detail the currency hedging strategy for foreign-denominated assets and liabilities, especially considering the substantial investments in associates and joint ventures.",
+                "api_response": {
+                    "response": "The provided documents do not contain information regarding the company's financial exposure to Saudi Riyals (SAR), nor do they include the specific SAR-denominated debt, equity, or exchange difference loss figures mentioned in the query. Therefore, a sensitivity analysis to a hypothetical 5% and 10% revaluation or de-pegging of the Saudi Riyal, or details on a currency hedging strategy specifically for SAR-denominated assets and liabilities, cannot be provided based on the given information.",
+                    "reasoning": "The query references specific financial figures in Saudi Riyals (SAR), including a SAR 1.2 billion 'Exchange difference on translation' loss, SAR 28.1 billion in total debt, and SAR 156.8 billion in equity, along with a SAR/USD peg. However, the provided documents pertain to 'Blue Jet Healthcare Ltd' and present all financial figures in Indian Rupees (₹) [2](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=214), [3](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=190), [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=198), [5](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=197), [7](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=215), [8](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=201), [9](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Ffr2024.pdf#page=29), [10](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=211), [14](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=49), [16](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=47). There is no mention of SAR, a SAR/USD peg, or any financial exposure in Saudi Riyals within the provided text. While the documents discuss foreign currency transactions and sensitivity to USD and EUR [2](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=214), and general foreign exchange risk and hedging practices [21](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=51), they do not provide the specific information required to address the query's focus on Saudi Riyals.",
+                    "sources": [
+                        {
+                            "page_number": 214,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 190,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 198,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 197,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 215,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 201,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 29,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Ffr2024.pdf"
+                        },
+                        {
+                            "page_number": 211,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 49,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 47,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 51,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 178,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        }
+                    ],
+                    "confidence_level": "Low"
+                }
+            },
+            {
+                "question": "Retained earnings attributable to equity holders of the Parent have significantly declined by SAR 8.1 billion, while 'Non-controlling interests' (Note 21) have also decreased. This suggests either poor operating performance, substantial distributions, or significant impairments within controlled entities. Can management provide a detailed breakdown of the key drivers for the decline in parent-level retained earnings? Specifically, how much of this decline is attributable to operational losses versus dividends paid to non-controlling interests (e.g., the reported SAR 2.6B outflow), and what is the strategic rationale for the current ownership structure, given potential structural leakage impacting the Parent's ability to retain capital for reinvestment?",
+                "api_response": {
+                    "response": "The provided documents do not contain information regarding a SAR 8.1 billion decline in retained earnings attributable to equity holders of the Parent, nor do they detail the key drivers for such a decline, including operational losses versus dividends paid to non-controlling interests (e.g., SAR 2.6B outflow). Additionally, the strategic rationale for the current ownership structure is not discussed in the provided materials. The financial data available is in INR, not SAR, and consistently reports net profits, not operational losses, for the periods covered.",
+                    "reasoning": "The query refers to a decline in retained earnings by SAR 8.1 billion and a decrease in 'Non-controlling interests' (Note 21), along with a SAR 2.6B outflow for dividends to non-controlling interests. However, the provided documents are for 'Blue Jet Healthcare Limited' and present financial figures in Indian Rupees (₹) [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Ffr2024.pdf#page=29), [2](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=49), [3](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=47), [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Ffr2024.pdf#page=33), [6](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Ffr2024.pdf#page=30), [9](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=52). The documents consistently report net profits for FY2023, FY2024, and FY2025, such as ₹1,637.51 Million for FY2024 and ₹3,052.03 Million for FY2025 [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Ffr2024.pdf#page=29), [3](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=47), [9](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf#page=52), indicating no operational losses. While a closing balance of retained earnings of ₹8,105.30 Million for FY2024 is mentioned [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Ffr2024.pdf#page=33), this is a balance, not a reported decline, and the currency does not match the query. There is no mention of 'Non-controlling interests' or specific dividend outflows to them, nor is there any discussion of the strategic rationale for the ownership structure.",
+                    "sources": [
+                        {
+                            "page_number": 29,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Ffr2024.pdf"
+                        },
+                        {
+                            "page_number": 49,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 47,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        },
+                        {
+                            "page_number": 33,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Ffr2024.pdf"
+                        },
+                        {
+                            "page_number": 30,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Ffr2024.pdf"
+                        },
+                        {
+                            "page_number": 52,
+                            "file_link": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/blue_jet_healthcare_ltd%2Fin%2Fblue_jet_healthcare_ltd_in_fr_2025.pdf"
+                        }
+                    ],
+                    "confidence_level": "Low"
+                }
+            }
+        ]
+    }
+]
