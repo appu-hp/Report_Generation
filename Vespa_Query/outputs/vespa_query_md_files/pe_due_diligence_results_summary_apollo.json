@@ -1,0 +1,56 @@
+[
+    {
+        "section_title": "CONSOLIDATED STATEMENT OF FINANCIAL POSITION",
+        "timestamp": "Fri Dec 26 16:15:11 2025",
+        "due_diligence_inquiries": [
+            {
+                "question": "The dramatic SAR 1,038,714 reduction in Current Provisions and SAR 1,296,379 reduction in Zakat Payable in 2024 raises red flags. Detail precisely how much of the SAR 2,335,093 combined reduction was a P&L benefit, rather than genuine cash-settled obligations, and reconcile this against the SAR 8,059,563 decline in Retained Earnings.",
+                "rag_summary": {
+                    "response": "The provided retrieval results do not contain the necessary financial statements or detailed notes to determine precisely how much of the SAR 2,335,093 combined reduction in Current Provisions and Zakat Payable was a P&L benefit versus a cash-settled obligation, nor to reconcile this against the SAR 8,059,563 decline in Retained Earnings. To answer your query, a review of the company's detailed income statement, balance sheet, cash flow statement, and the notes to the financial statements for 2024 (and ideally 2023 for comparative purposes) would be required. This would allow for an analysis of the specific movements in these liability accounts and their impact on profit and loss and cash flows.",
+                    "sources": [],
+                    "confidence_level": "low"
+                }
+            },
+            {
+                "question": "Explain the SAR 2,535,918 deterioration in \"Other reserves\" and explicitly link it to the SAR 11,800,329 decrease in \"Assets held for sale\" and the SAR 5,700,890 decrease in associated liabilities. We need an LTM bridge analysis to understand the true underlying profitability, stripping out any one-time gains or losses from these dispositions which may be masking operational decay.",
+                "rag_summary": {
+                    "response": "I cannot provide an explanation for the SAR 2,535,918 deterioration in \"Other reserves\" or explicitly link it to the SAR 11,800,329 decrease in \"Assets held for sale\" and the SAR 5,700,890 decrease in associated liabilities, nor can I perform an LTM bridge analysis. The necessary financial data, including details on these specific items and any one-time gains or losses from dispositions, is not available in the provided retrieval results. To address your query, please provide the relevant financial statements or a detailed breakdown of these line items.",
+                    "sources": [],
+                    "confidence_level": "low"
+                }
+            },
+            {
+                "question": "Property, Plant & Equipment decreased by SAR 2,542,004 while Intangible assets decreased by SAR 601,376, suggesting either underinvestment or significant disposals. Provide an LTM analysis of capital expenditures versus depreciation/amortization to demonstrate that the current run-rate is sufficient to avert a future CAPEX \"bow wave\" for asset maintenance and technological upgrades, rather than simply harvesting existing assets.",
+                "rag_summary": {
+                    "response": "I cannot perform an LTM analysis of capital expenditures versus depreciation/amortization as the necessary financial data, including specific LTM CAPEX and depreciation/amortization figures, is not available in the provided retrieval results. To determine if the current run-rate is sufficient to avert a future CAPEX \"bow wave\" and ensure asset maintenance and technological upgrades, I would require the following:\n\n*   **Last Twelve Months (LTM) Capital Expenditures (CAPEX):** Detailed breakdown of investments in Property, Plant & Equipment and Intangible Assets over the past year.\n*   **Last Twelve Months (LTM) Depreciation and Amortization:** The total non-cash expenses recognized for the usage and wear-and-tear of tangible and intangible assets over the past year.\n\nWith this data, I could calculate the ratio of CAPEX to depreciation/amortization, analyze trends, and assess whether the company is adequately reinvesting in its asset base or potentially underinvesting, which could lead to future maintenance and upgrade costs. General PE insight suggests that a CAPEX-to-depreciation ratio consistently below 1.0 could indicate a risk of asset harvesting or underinvestment, while a ratio above 1.0 typically signals growth or significant modernization efforts.",
+                    "sources": [],
+                    "confidence_level": "low"
+                }
+            },
+            {
+                "question": "Cash and Cash Equivalents declined by SAR 1,875,328 to SAR 30,539,668, yet \"Other liabilities\" (current) significantly increased by SAR 1,497,650 to SAR 19,695,999. Clarify the nature of this growing \"shadow financing\" and justify how the company plans to meet SAR 45,381,288 in current liabilities, indicating a Working Capital Intensity issue, without increasingly relying on unsecured trade credit.",
+                "rag_summary": {
+                    "response": "The provided retrieval results do not contain information regarding the nature of the growing \"Other liabilities (current)\" or how the company plans to meet its current liabilities without relying on unsecured trade credit. Therefore, I cannot clarify the nature of any \"shadow financing\" or justify the company's strategy for managing working capital intensity based on the available data.",
+                    "sources": [],
+                    "confidence_level": "low"
+                }
+            },
+            {
+                "question": "Given the SAR 2,298,058 increase in total debt, from SAR 27,970,946 to SAR 30,269,004, and the SAR 2,535,918 negative shift in \"Other reserves\" (potentially containing FX translation losses), present a stress-tested LTM Debt-to-Equity ratio under a 5-10% de-pegging scenario. Demonstrate how this would impact debt serviceability and access to capital given the current liquidity profile.",
+                "rag_summary": {
+                    "response": "I am unable to provide a stress-tested LTM Debt-to-Equity ratio under a 5-10% de-pegging scenario, nor can I demonstrate its impact on debt serviceability and access to capital. The retrieval results provided are empty, which means I do not have access to the necessary financial data such as the company's current equity, the currency composition of its debt, or its revenue and cost base. \n\nTo perform this analysis, I would require:\n*   **Detailed Financial Statements:** Specifically, the balance sheet to determine the current equity base, and income statements to understand operating performance and cash flow generation.\n*   **Debt Schedule/Covenants:** Information on the currency denomination of the total debt (SAR 30,269,004), maturity profiles, interest rates, and any financial covenants (e.g., Debt-to-Equity, Debt-to-EBITDA ratios).\n*   **Currency Exposure Details:** Clarification on the extent to which \"Other reserves\" (SAR 2,535,918 negative shift) are directly attributable to FX translation losses and the underlying foreign currency exposure.\n*   **Liquidity Profile Breakdown:** Details on cash and cash equivalents, available credit lines, and short-term liabilities to fully assess the current liquidity.\n\n**General PE insight:** A de-pegging scenario of 5-10% would typically have a significant impact on an entity with foreign currency denominated debt, particularly if its revenue streams are primarily local currency. The potential FX translation losses already observed in \"Other reserves\" highlight this inherent risk. Such an event would likely:\n*   **Increase Debt Burden:** The SAR equivalent of foreign currency debt would rise, directly increasing the Debt-to-Equity ratio.\n*   **Elevate Debt Service Costs:** If interest payments are also in foreign currency, the SAR cost of servicing debt would increase.\n*   **Reduce Access to Capital:** Lenders would perceive higher risk, potentially leading to increased borrowing costs, tighter covenants, or reduced availability of new capital.\n*   **Impact on Valuation:** The overall enterprise value could decline due to higher cost of debt and increased financial risk, affecting future fundraising or exit opportunities.\n\nWithout the underlying financial data, any quantitative analysis remains speculative.",
+                    "sources": [],
+                    "confidence_level": "low"
+                }
+            },
+            {
+                "question": "Parent Retained Earnings declined by SAR 8,059,563 while Non-Controlling Interests decreased by only SAR 768,900 and Investments in Associates declined by SAR 5,801,516. Explain this disproportionate capital leakage from the parent, quantify the NCI dividend outflow, and provide an LTM ROIC calculation for the core operating assets, demonstrating how value is being generated for LP capital holders, not just minority partners.",
+                "rag_summary": {
+                    "response": "I apologize, but I cannot provide an explanation for the disproportionate capital leakage from the parent, quantify the Non-Controlling Interest (NCI) dividend outflow, or calculate the LTM ROIC for core operating assets based on the information provided. The retrieval results are empty, meaning there is no data available to analyze the declines in Parent Retained Earnings, Non-Controlling Interests, and Investments in Associates.",
+                    "sources": [],
+                    "confidence_level": "low"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,238 @@
+[
+    {
+        "section_title": "CONSOLIDATED STATEMENT OF FINANCIAL POSITION",
+        "timestamp": "Fri Dec 26 16:15:11 2025",
+        "due_diligence_inquiries": [
+            {
+                "question": "The dramatic SAR 1,038,714 reduction in Current Provisions and SAR 1,296,379 reduction in Zakat Payable in 2024 raises red flags. Detail precisely how much of the SAR 2,335,093 combined reduction was a P&L benefit, rather than genuine cash-settled obligations, and reconcile this against the SAR 8,059,563 decline in Retained Earnings.",
+                "rag_summary": {
+                    "response": "The combined reduction in Current Provisions and Zakat Payable in 2024 was SAR 2,554,901, differing from your stated SAR 2,335,093 due to the retrieved figure for the reduction in general provisions being SAR 1,258,522, while your figure for Current Provisions reduction was SAR 1,038,714. The Zakat Payable reduction matches your figure at SAR 1,296,379. Precise details are as follows:\n\n**1. Breakdown of Combined Reduction**\n\n*   **Zakat Payable Reduction (SAR 1,296,379):** The Zakat payable balance decreased from SAR 1,414,718 as of January 1, 2024, to SAR 118,339 as of December 31, 2024 [1].\n    *   **P&L Benefit:** The Zakat expense recorded in the P&L for 2024 was SAR 213,827 [1, 7], a significant decrease from SAR 1,269,160 in 2023 [7]. This year-over-year reduction of **SAR 1,055,333** (1,269,160 - 213,827) constitutes a P&L benefit. This reduction was primarily due to the reversal of Zakat provisions in 2024 following the revision of relevant Zakat regulations [6]. This reversal is a non-cash component that reduced the liability balance by lowering the expense recognised in the P&L.\n    *   **Cash-Settled Obligations:** Zakat payments (cash outflow) during 2024 amounted to **SAR 1,503,982** [1]. This cash outflow largely exceeded the Zakat expense for the year, directly contributing to the reduction in the payable balance.\n\n*   **Provisions Reduction (SAR 1,258,522):** The consolidated statement of cash flows reports a net decrease in provisions of **SAR 1,258,522** for 2024 [3].\n    *   **P&L Benefit:** The expense for \"Demolition, restructuring and miscellaneous provisions\" recognized in the P&L decreased from SAR 1,147,007 in 2023 to SAR 320,120 in 2024 [5]. This year-over-year reduction of **SAR 826,887** (1,147,007 - 320,120) is a P&L benefit, meaning less was added to the provision through P&L in 2024.\n    *   **Cash-Settled Obligations:** The net decrease in the provisions balance (SAR 1,258,522) [3], combined with a P&L expense of SAR 320,120 [5], implies that cash-settled obligations or provisions utilized amounted to approximately **SAR 1,578,642** (SAR 1,258,522 decrease + SAR 320,120 P&L expense). This represents the portion of the reduction driven by actual settlement rather than changes in P&L recognition.\n\n**Summary of P&L Benefit vs. Cash-Settled Obligations:**\n\n| Item | P&L Benefit (Reduction in Expense Y-o-Y) | Cash-Settled Obligations | Notes |\n| :--- | :--- | :--- | :--- |\n| Zakat Payable | SAR 1,055,333 | SAR 1,503,982 | [1, 6, 7] |\n| Provisions | SAR 826,887 | SAR 1,578,642 | [3, 5] (Derived Cash) |\n| **Total** | **SAR 1,882,220** | **SAR 3,082,624** | |\n\nTherefore, of the combined reduction in Zakat Payable and Provisions (SAR 2,554,901 based on retrieved data), approximately **SAR 1,882,220** represents a P&L benefit due to a significant reduction in recognized expenses, while **SAR 3,082,624** reflects genuine cash-settled obligations that reduced the liabilities.\n\n**2. Reconciliation with SAR 8,059,563 Decline in Retained Earnings**\n\nRetained Earnings are a component of Equity attributable to equity holders of the Parent. The total Equity attributable to equity holders of the Parent decreased by SAR 10,600,000 (﷼10.60 Bn) in 2024, from SAR 167,430,000 in 2023 to SAR 156,830,000 in 2024 [6].\n\nThe primary driver for this decline was declared dividends of SAR 10,200,000 (﷼10.20 Bn) [6]. While the P&L benefits from the reduced Zakat expense (SAR 1,055,333) and provisions expense (SAR 826,887) contributed positively to the Net Income attributable to equity holders of the Parent (SAR 1,538,542 in 2024) [7], thereby mitigating what would have been an even larger decline, these benefits were substantially outweighed by the significant dividend payments. The user's specific figure for retained earnings decline (SAR 8,059,563) is not directly stated in the provided documents, but the overall trend is consistent with a larger decline driven by dividends despite positive net income and P&L benefits from reduced expenses.",
+                    "sources": [
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 233
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 238
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 175
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 67
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 232
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 62
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 172
+                        }
+                    ],
+                    "confidence_level": "High"
+                }
+            },
+            {
+                "question": "Explain the SAR 2,535,918 deterioration in \"Other reserves\" and explicitly link it to the SAR 11,800,329 decrease in \"Assets held for sale\" and the SAR 5,700,890 decrease in associated liabilities. We need an LTM bridge analysis to understand the true underlying profitability, stripping out any one-time gains or losses from these dispositions which may be masking operational decay.",
+                "rag_summary": {
+                    "response": "The SAR 2,535,918 deterioration in \"Other reserves\" is directly attributable to the combined impact of other comprehensive losses for the year and reclassification entries related to discontinued operations. Specifically, the total deterioration in \"Other reserves\" from SAR (1,576,557) as of December 31, 2023, to SAR (4,112,475) as of December 31, 2024, is composed of SAR (1,934,023) from other comprehensive (loss) income for the year and a SAR (601,895) reclassification of re-measurement gain on defined benefit plans related to a discontinued operation [3](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=217), [7](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=171). The sum of these two components equals the SAR (2,535,918) deterioration. This reclassification specifically links to the disposal of Hadeed, as defined benefit plans are a component of employee benefits, which were part of the liabilities associated with that discontinued operation [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=239).The SAR 11,800,329 decrease in \"Assets held for sale\" (from SAR 15,423,954 in 2023 to SAR 3,623,625 in 2024) and the SAR 5,700,890 decrease in associated liabilities (from SAR 5,700,890 in 2023 to SAR 0 in 2024) [7](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=171), [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=239) are primarily due to the completion of the sale of 'Saudi Iron and Steel Company' (\"Hadeed\") to the 'Public Investment Fund' (\"PIF\"). This transaction was completed as of May 31, 2024, following the classification of Hadeed's assets and liabilities as 'held for sale' as of December 31, 2023 [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=238), [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=239). The SAR 601,895 reclassification within \"Other reserves\" is a direct accounting adjustment related to this discontinued operation upon its disposal.Regarding an LTM (Last Twelve Months) bridge analysis for underlying profitability, the provided data is annual, precluding a true LTM analysis. However, we can perform an annual comparative analysis to strip out one-time gains or losses from these dispositions and assess the underlying profitability trend:\n\n**1. Baseline for Operational Profitability (Pre-Zakat):**\nWe start with the Income (loss) before zakat and income tax from continuing operations and add the Loss before zakat from discontinued operations (which, per financial presentation, excludes fair value re-measurements and other non-operating items of discontinued operations):\n\n| (Amounts in thousands of SAR) | 2024 | 2023 |\n| :----------------------------------------- | :--------- | :--------- |\n| Income before zakat (Continuing Operations) [2](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=175) | 4,416,419 | 4,523,614 |\n| Loss before zakat (Discontinued Operations, Operational) [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=238) | (208,924) | (1,030,600) |\n| **Subtotal (Operational Profitability Baseline)** | **4,207,495** | **3,493,014** |\n\nThis shows an improvement of SAR 714,481 in operational profitability before specific disposition impacts.\n\n**2. Adjustments for Other Disposition-Related Items Impacting Profitability in 2024:**\nTo further refine the underlying profitability, we adjust for other one-time items related to asset disposals that impact the reported income:\n\n*   **Gain on sale of Film & Sheet (F&S) business:** A gain of SAR (291,359) was recorded in 2024 from the sale of the F&S business, classified as assets held for sale [2](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=175), [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=239). To strip out this non-recurring gain for underlying profitability, we subtract it.\n*   **Fair value re-measurement loss on ALBA shares:** A loss of SAR (201,000) was recorded in 2024 related to the re-measurement of ALBA shares classified as assets held for sale, recognized under results from associates and non-integral joint ventures [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=239). To remove this non-recurring loss for underlying profitability, we add it back.\n\n**3. Normalized Operational Profitability (2024):**\n\n*   Operational Profitability Baseline (2024): SAR 4,207,495\n*   Less: Gain on sale of F&S business: SAR (291,359)\n*   Add: Fair value re-measurement loss on ALBA shares: SAR 201,000\n*   **Normalized Operational Profitability (2024): SAR 4,117,136**\n\n**Conclusion on Underlying Profitability:**\n\nComparing the normalized operational profitability, the Group's underlying profitability (pre-zakat and before significant one-time disposition impacts) improved from SAR 3,493,014 in 2023 to SAR 4,117,136 in 2024, representing an increase of SAR 624,122. This indicates a positive underlying trend in core operational performance, despite various disposition-related impacts and reclassifications in \"Other reserves\" during the period.",
+                    "sources": [
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 238
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 175
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 217
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 239
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 196
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 173
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 171
+                        }
+                    ],
+                    "confidence_level": "High"
+                }
+            },
+            {
+                "question": "Property, Plant & Equipment decreased by SAR 2,542,004 while Intangible assets decreased by SAR 601,376, suggesting either underinvestment or significant disposals. Provide an LTM analysis of capital expenditures versus depreciation/amortization to demonstrate that the current run-rate is sufficient to avert a future CAPEX \"bow wave\" for asset maintenance and technological upgrades, rather than simply harvesting existing assets.",
+                "rag_summary": {
+                    "response": "The Last Twelve Months (LTM) analysis of capital expenditures (CAPEX) versus depreciation and amortization (D&A) suggests that the current investment run-rate for continuing operations is **not sufficient** to avert a future CAPEX \"bow wave\" for asset maintenance and technological upgrades. This indicates a potential harvesting of existing assets rather than sustained reinvestment.",
+                    "sources": [
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 175
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 176
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 238
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 240
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 171
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 239
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 195
+                        }
+                    ],
+                    "confidence_level": "High"
+                }
+            },
+            {
+                "question": "Cash and Cash Equivalents declined by SAR 1,875,328 to SAR 30,539,668, yet \"Other liabilities\" (current) significantly increased by SAR 1,497,650 to SAR 19,695,999. Clarify the nature of this growing \"shadow financing\" and justify how the company plans to meet SAR 45,381,288 in current liabilities, indicating a Working Capital Intensity issue, without increasingly relying on unsecured trade credit.",
+                "rag_summary": {
+                    "response": "Cash and Cash Equivalents for the company declined by SAR 1,875,328, from SAR 32,414,996 at December 31, 2023, to SAR 30,539,668 at December 31, 2024 [5]. This decrease is also reflected in the summarized consolidated cash flows, which show a 10% decrease (﷼3.26 Bn) in cash and cash equivalents at year-end from 2023 to 2024 [1].\n\nHowever, the provided documents do not contain a consolidated line item for \"Other liabilities (current)\" that matches the reported increase of SAR 1,497,650 to a total of SAR 19,695,999. Without this specific data, it is not possible to clarify the nature of this growing \"shadow financing\" or its implications.\n\nSimilarly, the retrieval results do not include a consolidated total for current liabilities amounting to SAR 45,381,288 for the main entity. Therefore, I cannot justify how the company plans to meet these liabilities or directly address the working capital intensity issue in the context of avoiding increased reliance on unsecured trade credit. \n\nGeneral PE insight: From a broader perspective, a decline in cash and cash equivalents combined with a potential increase in current liabilities (if the user's figures are accurate) often signals tightening liquidity and could indicate working capital challenges. While the documents show a decrease in net cash generated from operating activities in 2024 (﷼8.09 Bn or 33%) [1] and withdrawals from Saudi Aramco credit facilities as part of financing activities [1, 2], the specific details needed to evaluate the company's plan for meeting the stated total current liabilities are not available.",
+                    "sources": [
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 63
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 216
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 206
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 238
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 215
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in%2Fsabic_cc_compressed.pdf",
+                            "page_number": 239
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 205
+                        }
+                    ],
+                    "confidence_level": "Low"
+                }
+            },
+            {
+                "question": "Given the SAR 2,298,058 increase in total debt, from SAR 27,970,946 to SAR 30,269,004, and the SAR 2,535,918 negative shift in \"Other reserves\" (potentially containing FX translation losses), present a stress-tested LTM Debt-to-Equity ratio under a 5-10% de-pegging scenario. Demonstrate how this would impact debt serviceability and access to capital given the current liquidity profile.",
+                "rag_summary": {
+                    "response": "Based on the financial data for 2024, the company's LTM Debt-to-Equity ratio is calculated using Total Debt and Total Equity figures directly from the consolidated statements. It is important to note that the debt increase figures provided in your query (SAR 2,298,058 increase, from SAR 27,970,946 to SAR 30,269,004) do not align with the provided documentation, which shows an increase in 'Gross debt' from SAR 33,496,767 in 2023 to SAR 35,198,069 in 2024 [3, p. 246], or 'Total debt and lease liabilities' from SAR 33.50 Bn to SAR 35.20 Bn [6, p. 64]. For this analysis, we will use the reported 2024 'Total debt and lease liabilities' of SAR 35.20 Bn and 'Total equity' of SAR 183.92 Bn [6, p. 64]. Additionally, the specific 'SAR 2,535,918 negative shift in Other reserves' could not be explicitly identified or fully correlated to general FX translation losses from the provided documents. We will proceed by assuming a direct impact on equity from the revaluation of USD-denominated debt.\n\n**1. Current LTM Debt-to-Equity Ratio (2024):**\n*   Total Debt (Gross Debt, 2024): SAR 35,198,069 thousand (or SAR 35.20 Bn) [3, p. 246, 6, p. 64]\n*   Total Equity (2024): SAR 183,916,159 thousand (or SAR 183.92 Bn) [3, p. 246, 6, p. 64]\n*   **Base LTM Debt-to-Equity Ratio = 35.20 Bn / 183.92 Bn = 0.1914 or 19.14%**\n\n**2. Stress-Tested LTM Debt-to-Equity Ratio under De-pegging Scenario:**\nAssuming the reported 'Total debt and lease liabilities' of US$ 9.39 Bn is fully exposed to currency fluctuations, a de-pegging of the SAR would increase the SAR equivalent of this debt. We assume the corresponding revaluation loss directly reduces equity.\n\n| Scenario | Total Debt (SAR Bn) | Total Equity (SAR Bn) | Stressed Debt-to-Equity Ratio |\n| :------- | :------------------ | :-------------------- | :-------------------------- |\n| **Base (2024)** | 35.20 | 183.92 | **19.14%** |\n| **5% De-pegging** | 36.95 (+1.75) | 182.17 (-1.75) | **20.28%** |\n| **10% De-pegging** | 38.75 (+3.55) | 180.37 (-3.55) | **21.48%** |\n\n*Calculations assume a base SAR/USD rate of 3.7486 (derived from 2024 SAR 35.20 Bn debt / US$ 9.39 Bn debt [6, p. 64]).*\n\n**3. Impact on Debt Serviceability:**\n*   **Base (2024) Debt Serviceability:**\n    *   EBITDA (2024): SAR 19.47 Bn [6, p. 64]\n    *   Finance Cost (2024): SAR 2.82 Bn [7, p. 172]\n    *   Interest Coverage Ratio (EBITDA / Finance Cost) = 19.47 Bn / 2.82 Bn = **6.90x**\n\n*   **Stressed Debt Serviceability:**\n    Under a de-pegging scenario, the SAR value of USD-denominated interest payments would increase. Assuming the current effective interest rate (Finance Cost/Total Debt) of approximately 8.01% (2.82 Bn / 35.20 Bn) on the increased debt:\n\n    | Scenario | Additional Finance Cost (SAR Bn) | New Finance Cost (SAR Bn) | Stressed Interest Coverage Ratio |\n    | :------- | :----------------------------- | :------------------------ | :------------------------------ |\n    | **5% De-pegging** | 0.14 | 2.96 | **6.58x** |\n    | **10% De-pegging** | 0.28 | 3.10 | **6.28x** |\n\nThe interest coverage remains robust even under stress, declining from 6.90x to 6.28x. This suggests the company has ample operational cash flow to cover its debt service obligations, mitigating immediate concerns about serviceability even with an increase in finance costs.\n\n**4. Impact on Access to Capital:**\n*   **Strong Credit Ratings:** The company's credit rating was upgraded by Moody's from A1 to Aa3 in 2024, one of the highest among global chemical companies, reflecting strong financial strength and resilience [6, p. 64]. This indicates strong institutional confidence and access to capital markets.\n*   **Liquidity Profile:** The company maintains a healthy liquidity position with cash and cash equivalents of SAR 30.54 Bn at year-end 2024 [1, p. 63]. Its primary sources of liquidity are cash flows from operations and committed bank facilities [6, p. 64]. Free cash flow in 2024 was SAR 6.16 Bn [1, p. 63].\n*   **Covenant Compliance:** The Group was in compliance with all debt covenants at December 31, 2024, with no indications of future difficulties [3, p. 246].\n*   **Net Cash Position:** The company reports a 'Net debt (cash)' position of -3.01 Bn SAR in 2024, resulting in a 'Net debt to equity ratio' of -2% [6, p. 64]. This indicates a net cash surplus rather than net debt, further bolstering its financial flexibility and access to capital.\n\nWhile a de-pegging scenario would increase the Debt-to-Equity ratio and finance costs, the company's strong credit ratings, substantial liquidity, positive free cash flow, and net cash position provide significant buffers. Access to capital is likely to remain strong, although the cost of new debt could be marginally higher in a sustained de-pegging environment as lenders price in increased currency risk. The prudent financing policy aims to ensure sufficient liquidity while optimizing returns [6, p. 64].",
+                    "sources": [
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 63
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 62
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 238
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 209
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 18
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 64
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 172
+                        }
+                    ],
+                    "confidence_level": "High"
+                }
+            },
+            {
+                "question": "Parent Retained Earnings declined by SAR 8,059,563 while Non-Controlling Interests decreased by only SAR 768,900 and Investments in Associates declined by SAR 5,801,516. Explain this disproportionate capital leakage from the parent, quantify the NCI dividend outflow, and provide an LTM ROIC calculation for the core operating assets, demonstrating how value is being generated for LP capital holders, not just minority partners.",
+                "rag_summary": {
+                    "response": "The disproportionate capital leakage from the parent company's retained earnings compared to Non-Controlling Interests (NCI) and Investments in Associates is primarily driven by substantial dividend payouts to the parent's equity holders. While the parent's retained earnings declined by SAR 8,059,563, this was largely a result of SAR 10,200,000 in declared dividends to equity holders of the Parent in 2024 [8](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=174), which significantly exceeded the net income attributable to the parent (SAR 1,538,542) [8](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=174). This aggressive dividend policy explains the larger reduction in parent's retained earnings.\n\nIn contrast, the decline in Non-Controlling Interests of SAR 768,900 is a result of net income attributable to NCI (SAR 2,184,593) being less than the dividends paid to NCI (SAR 2,987,818) [8](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=174). The Investments in Associates declined by SAR 5,801,516, primarily due to an impairment of SAR 1,170,000 on the investment in CLARIANT caused by a decline in its share price, and a re-measurement loss of SAR 201,000 related to the sale of shares in ALBA [7](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=204), [5](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=239).\n\n**NCI Dividend Outflow Quantification:**\nThe total dividend outflow to Non-Controlling Interests for the last twelve months (LTM) ended December 31, 2024, was **SAR 2,987,818 thousand** [8](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=174). This includes distributions to minority partners in entities such as YANSAB (SAR 528,722 thousand), AR-RAZI (SAR 295,313 thousand), SABIC AN (SAR 1,620,250 thousand), GAS (SAR 135,200 thousand), UNITED (SAR 57,500 thousand), and IBN ZAHR (SAR 180,000 thousand) [3](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=219).\n\n**LTM ROIC Calculation for Core Operating Assets:**\nTo calculate the Return on Invested Capital (ROIC) for core operating assets for the LTM ended December 31, 2024, we use the formula: `NOPAT / Invested Capital`.\n\n1.  **Net Operating Profit After Tax (NOPAT):**\n    *   Income from operations (EBIT) for continuing operations in 2024 was SAR 5,740,000 thousand [8](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=61).\n    *   Total Income tax and Zakat expense for 2024 was SAR 140,000 thousand [8](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=61).\n    *   Zakat expense from discontinued operations was SAR 44,333 thousand [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=238).\n    *   Income tax and Zakat related to continuing operations = 140,000 - 44,333 = SAR 95,667 thousand.\n    *   NOPAT = EBIT - Taxes on Operating Profit = 5,740,000 - 95,667 = **SAR 5,644,333 thousand**.\n\n2.  **Invested Capital (Core Operating Assets):**\n    We calculate invested capital by summing operating assets and subtracting operating liabilities as of December 31, 2024:\n    *   **Operating Assets:**\n        *   Property, plant and equipment: SAR 112,580,575 thousand [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=171)\n        *   Right-of-use assets: SAR 4,835,543 thousand [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=171)\n        *   Intangible assets: SAR 19,141,633 thousand [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=171)\n        *   Investments in associates and joint ventures: SAR 35,435,785 thousand [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=171)\n        *   Other non-current assets and receivables: SAR 8,020,234 thousand [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=171)\n        *   Inventories: SAR 18,813,581 thousand [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=171)\n        *   Trade receivables: SAR 20,439,823 thousand [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=171)\n        *   Other current assets and receivables: SAR 10,298,362 thousand [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=171)\n        *   Total Operating Assets = SAR 229,565,536 thousand.\n    *   **Operating Liabilities (excluding interest-bearing debt, lease liabilities, deferred tax liabilities, derivatives, provisions, income tax payable, and zakat payable):**\n        *   Employee benefits (non-current): SAR 13,507,010 thousand [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=171)\n        *   Other non-current liabilities: SAR 1,605,249 thousand [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=171)\n        *   Trade payables: SAR 19,793,604 thousand [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=171)\n        *   Other current liabilities: SAR 19,695,999 thousand [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=171)\n        *   Total Operating Liabilities = SAR 54,601,862 thousand.\n    *   Invested Capital = Total Operating Assets - Total Operating Liabilities = 229,565,536 - 54,601,862 = **SAR 174,963,674 thousand**.\n\n3.  **ROIC Calculation:**\n    *   ROIC = 5,644,333 / 174,963,674 = 0.03226 or **3.23%**.\n\n**Value Generation for LP Capital Holders:**\nA positive LTM ROIC of 3.23% for the core operating assets indicates that the underlying business is generating returns from its operations. This demonstrates that value is being created by the core assets before considering financing structure or non-operating activities. For LP capital holders, this positive ROIC suggests that the company's operational efficiency and strategic investments are yielding profitable outcomes, thereby enhancing the intrinsic value of the business. Additionally, the company declared significant dividends of SAR 10,200,000 thousand to equity holders of the Parent in 2024 [8](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=174), directly providing a return on their capital. The improvement in net income attributable to equity holders of the Parent to SAR 1,540,000 thousand in 2024 from a net loss of SAR 2,770,000 thousand in 2023 [8](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=61) further underscores the positive financial turnaround, benefiting LP capital holders.",
+                    "sources": [
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 171
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 62
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 219
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 238
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 239
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 175
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 204
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 61
+                        },
+                        {
+                            "url": "https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf",
+                            "page_number": 174
+                        }
+                    ],
+                    "confidence_level": "high"
+                }
+            }
+        ]
+    }
+]
