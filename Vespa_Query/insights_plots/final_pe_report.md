@@ -10,7 +10,7 @@ _Generated: Wed Dec 31 13:23:08 2025_
 **Q:** The parent's Retained Earnings plunged by SAR 8,059,563 (28.7%) YoY to SAR 20,056,576, while 'Other reserves' worsened by SAR 2,535,918. Simultaneously, current provisions, including Zakat payable, saw aggregate releases exceeding SAR 2.3M. Provide an LTM bridge analysis detailing how much of 2024's reported profitability was driven by these non-recurring provision reversals rather than sustainable core operations, especially as Non-Controlling Interests remained relatively robust.
 
 
-![Chart](./insights_plots/plots/s1_q1.png)
+![Chart](./plots/s1_q1.png)
 
 **Analysis**
 
@@ -46,7 +46,7 @@ If the SAR 690 million benefit from the non-recurring Zakat provision reversal i
 **Q:** The decline in PP&E by SAR 2,542,004 and ‘Investments in associates’ by SAR 5,801,516, coupled with a SAR 11,800,329 reduction in ‘Assets held for sale,’ raises concerns about asset stripping or underinvestment. What is the true ROIC on the *parent's* remaining capital after these disposals, and quantify the 'bow wave' of deferred CAPEX or strategic reinvestment required to sustain long-term growth and prevent future obsolescence?
 
 
-![Chart](./insights_plots/plots/s1_q2.png)
+![Chart](./plots/s1_q2.png)
 
 **Analysis**
 
@@ -83,7 +83,7 @@ The provided retrieval results do not contain any information or forward-looking
 **Q:** Cash and cash equivalents declined by SAR 1,875,328 to SAR 30,539,668, yet 'Other current liabilities' surged by SAR 1,497,650 YoY to SAR 19,695,999, almost equaling Trade Payables. Detail the specific composition and unsecured nature of this shadow financing. What is the working capital intensity and the immediate liquidity impact if this 'other' liability, now representing 43.4% of total current liabilities (excluding assets held for sale), were to be abruptly called?
 
 
-![Chart](./insights_plots/plots/s1_q3.png)
+![Chart](./plots/s1_q3.png)
 
 **Analysis**
 
@@ -112,7 +112,7 @@ To provide a more comprehensive analysis, additional information would be requir
 **Q:** The SAR 2,535,918 negative swing in 'Other reserves' indicates significant currency translation losses or revaluation impacts. Given the current Debt (non-current and current) stands at SAR 28,188,082 for 2024, provide a stress-tested LTM Debt-to-Equity ratio under a 5-10% SAR de-pegging scenario. How robust are the existing derivative instruments (SAR 3,669,688 asset vs. SAR 1,975,894 non-current liability) in fully hedging this systemic FX risk?
 
 
-![Chart](./insights_plots/plots/s1_q4.png)
+![Chart](./plots/s1_q4.png)
 
 **Analysis**
 
@@ -148,7 +148,7 @@ The existing derivative instruments (SAR 3,669,688 asset vs. SAR 1,975,894 non-c
 **Q:** The massive SAR 11,800,329 reduction in 'Assets held for sale,' fully clearing its associated liabilities, indicates a significant disposal. Beyond any immediate cash inflow, what was the precise P&L impact (gain/loss) of this transaction, and what proportion of 2024's purported Free Cash Flow conversion is directly attributable to such one-off asset sales versus genuine, sustainable operational cash generation?
 
 
-![Chart](./insights_plots/plots/s1_q5.png)
+![Chart](./plots/s1_q5.png)
 
 **Analysis**
 
