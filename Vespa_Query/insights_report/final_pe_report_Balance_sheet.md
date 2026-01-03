@@ -167,27 +167,6 @@ SAR 6.16 Bn (Free Cash Flow) / SAR 1.41 Bn (Normalized Net Income) = **436.9%**
 
 ---
 
-### Adjusted ROIC: Unmasking True Efficiency
-
-**Q:** Despite a significant -22.5% drop in Sales from SAR 183.08Bn in 2022 to SAR 141.54Bn in 2023, and a further -1% decline in 2024 to SAR 139.98Bn, the 2024 EBIT of SAR 5.74Bn is still drastically lower than SAR 33.60Bn in 2021. What is the current ROIC, adjusted for any deferred capital expenditures or a looming "bow wave" of maintenance, indicating true underlying asset utilization and operational efficiency given this ongoing revenue erosion?
-
-
-![Chart]( ./test_plots/s3_q2.png)
-
-**Analysis**
-
-Based on the available financial data for 2024, the calculated Return on Invested Capital (ROIC) is approximately **3.10%**.
-
-To arrive at this, the following calculations were performed:
-
-*   **NOPAT (Net Operating Profit After Tax)**: Using the 2024 Income from operations (EBIT) of SAR 5.74 Bn [2](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=61) and deducting the Income tax and Zakat expenses of SAR 0.14 Bn [2](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=61), NOPAT is calculated as SAR 5.60 Bn.
-*   **Invested Capital**: This is derived from the sum of Total Equity and Net Debt. For 2024, Total Equity was SAR 183.92 Bn [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=62) and Net Debt was SAR -3.01 Bn (indicating a net cash position) [6](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=60). Therefore, Invested Capital is SAR 180.91 Bn.
-
-**ROIC = NOPAT / Invested Capital = SAR 5.60 Bn / SAR 180.91 Bn = 3.10%.**
-
-Regarding the adjustment for any deferred capital expenditures or a looming "bow wave" of maintenance, the provided retrieval results do not contain explicit information to quantify such adjustments. While capital expenditures for 2024 were SAR 10.20 Bn [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=63) and total maintenance expenses were approximately SAR 4.97 Bn (SAR 4.23 Bn in Cost of Sales, SAR 0.56 Bn in G&A, and SAR 0.18 Bn in R&D) [5](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=231), the documents do not indicate that these figures represent deferred spending or that there is an unaddressed maintenance backlog. Therefore, no adjustment could be made based on the provided data.
-
----
 
 ### Divestiture Impact: Working Capital and Cash Flow
 
@@ -825,90 +804,8 @@ The provided documents confirm the figures for Murabaha long-term loans and the 
 ---
 
 
-## ADDITIONAL FINANCIAL INFORMATION
-
-### Zakat Abatement: Causes, FCF, Sustainability
-
-**Q:** The 91% reduction in Zakat payable, from SAR 1.41B in 2023 to a mere SAR 0.12B in 2024, is an extraordinary event. Detail the specific, non-recurring drivers for this massive decrease; how does this singular settlement impact the LTM Free Cash Flow Conversion, and what are the *sustained* annual cash outflow projections for Zakat to avoid any future "bow wave" of deferred obligations?
-
-
-![Chart]( ./test_plots/s10_q1.png)
-
-**Analysis**
-
-The extraordinary 91% reduction in Zakat payable, from SAR 1.41 billion in 2023 to SAR 0.12 billion in 2024, is primarily driven by specific, non-recurring events:
-
-*   **Non-Recurring Drivers:** The massive decrease is largely attributable to the reversal of Zakat provisions in 2024 [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=62). This reversal followed a reassessment of Zakat positions for both current and previous years, prompted by new Zakat regulations published during 2024 [2](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=233).
-
-*   **Impact on LTM Free Cash Flow Conversion:** The singular settlement, driven by the regulatory changes, led to a reduced cash outflow for Zakat. Zakat paid decreased from SAR 1.88 billion in 2023 to SAR 1.50 billion in 2024 [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=67). This SAR 0.38 billion reduction in cash outflow directly enhances Net Cash from Operating Activities [3](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=175). While a complete Free Cash Flow (FCF) conversion calculation requires capital expenditures (not explicitly provided), the lower Zakat cash outflow positively impacts the numerator (FCF) in any FCF conversion ratio. Given the significant improvement in net income (from a SAR 2.77 billion loss in 2023 to a SAR 1.54 billion profit in 2024) [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=62) and a slight increase in EBITDA [5](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=61), the reduced Zakat cash outflow contributes to an improved LTM FCF Conversion.
-
-*   **Sustained Annual Cash Outflow Projections:** To avoid any future "bow wave" of deferred obligations, the company should align its annual Zakat cash outflows with the current year's Zakat expense. Following the new regulations, the Zakat expense "provided during the year" in 2024 was SAR 213,827 thousand (approximately SAR 0.21 billion) [2](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=233). This is a substantial decrease from the SAR 1,355,054 thousand (approximately SAR 1.36 billion) provided in 2023 [2](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=233). Therefore, a sustained annual cash outflow projection for Zakat, assuming the new regulations remain stable and the Zakat base does not change drastically, is approximately SAR 0.21 billion [2](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=233).
-
----
-
-### Post-Retirement Medical ROIC Dilution
-
-**Q:** The 27% surge in post-retirement medical benefits, from SAR 0.88B to SAR 1.12B, significantly outpaces all other defined benefit obligations. Outline the precise actuarial assumption shifts or underlying healthcare cost inflation trends justifying this escalating unfunded liability, and quantify its dilutive effect on our projected Return on Invested Capital (ROIC) considering this growing, long-term capital intensity.
-
-
-![Chart]( ./test_plots/s10_q2.png)
-
-**Analysis**
-
-The 27% surge in post-retirement medical benefits, from SAR 0.88 billion in 2023 to SAR 1.12 billion in 2024, is primarily attributable to actuarial changes arising from financial assumptions [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=225), [7](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=67). While the report identifies "financial assumptions" as a key driver, it does not outline the precise shifts in these assumptions (e.g., changes in discount rates, healthcare cost trend rates) or specific underlying healthcare cost inflation trends.
-
-Key components contributing to the increase in post-retirement medical benefits in 2024 are:
-*   **Actuarial changes arising due to financial assumptions:** SAR 255,181 thousand [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=225)
-*   **Current service cost:** SAR 61,082 thousand [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=225)
-*   **Finance cost:** SAR 41,240 thousand [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=225)
-*   **Experience adjustments:** SAR 20,659 thousand [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=225)
-*   **Demographic adjustments:** SAR 314 thousand [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=225)
-
-Conversely, past service cost resulted in a decrease of SAR 116,791 thousand, and benefits paid during the year reduced the obligation by SAR 28,627 thousand [4](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=225).
-
-Regarding the dilutive effect on your projected Return on Invested Capital (ROIC), the provided retrieval results do not contain any information on ROIC, its projections, or the necessary data to quantify the impact of this escalating unfunded liability on capital intensity and ROIC. To quantify this effect, detailed financial models, specific ROIC calculation inputs, and the company's capital allocation strategy would be required.
-
----
-
-
-## BUSINESS SEGMENT REVIEW
-
-### Petchem EBIT Anomaly: FCF True-Up
-
-**Q:** With Petrochemicals EBIT skyrocketing over 1200% to US$0.72 Bn. in 2024 despite a 1% revenue decline and mere 6% EBITDA growth, precisely detail the D&A policy changes or non-recurring adjustments between EBITDA and EBIT that generated this anomaly; what's the real LTM Free Cash Flow conversion once we normalize for this potential earnings manipulation?
-
-
-**Note:** No valid table found for this question.
-
-### Margin Erosion, Working Capital, Cash Burn
-
-**Q:** Agri-Nutrients saw a +2% revenue and +5.4% sales volume growth, yet EBITDA plummeted 11% to US$1.04 Bn. and EBIT fell 14% to US$0.94 Bn. Why is margin erosion so severe with increasing volumes, and what is the current Working Capital Intensity, especially regarding potential increases in inventory or trade receivables masking operational cash burn?
-
-
-**Note:** No valid table found for this question.
-
-### Petrochemicals: Profitability, Maintenance, CAPEX
-
-**Q:** Petrochemicals' 1% revenue decline masks a significant -6.6% drop in Chemicals sales volumes (to 22.1 Mn. T) juxtaposed with a +2.8% rise in Polymers sales (to 15.8 Mn. T). Detail the LTM Bridge analysis on segment profitability and clarify the adequacy of 'Repairs and Maintenance' spend, given the apparent asset re-prioritization, to prevent a deferred CAPEX bow wave.
-
-
-**Note:** No valid table found for this question.
-
-
 ## BOARD MEMBERS' REMUNERATION IN 2024
 
-### Board Compensation: LP Performance
-
-**Q:** With total Board remuneration at SAR 8,930,000 for 2024, overwhelmingly dominated by SAR 7,200,000 in fixed amounts and zero stated profit bonuses or equity incentives, how does management justify this significant capital outlay as aligned with driving LTM ROIC and Free Cash Flow Conversion for our LPs? This compensation structure suggests a material structural leakage, incentivizing tenure over performance, directly impacting our valuation thesis.
-
-
-![Chart]( ./test_plots/s12_q1.png)
-
-**Analysis**
-
-The total Board remuneration for 2024 is SAR 8,930,000, which is entirely composed of fixed amounts, including fixed annual remuneration, attendance allowances for Board and committee meetings, and remuneration for Board and Committee Chairmanship [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=155), [2](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=156). The provided information explicitly shows zero stated profit bonuses, equity incentives, or other variable remunerations for Board members [1](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic-integrated-annual-report-2024-en_tcm1010-46870.pdf#page=155). This confirms your observation regarding the fixed nature of Board compensation.The company's Remuneration Policy, approved by the General Assembly, states that Board and Committee Members' remuneration "shall consist of a fixed fee and an allowance for attendance at the Board and Committee meetings" [5](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=154). The policy's objectives include attracting individuals with the required qualifications, skills, and expertise, and serving as a "motivating factor (without exaggeration) for the achievement of objectives, and to enhance the company’s ability to grow and sustain its business" [5](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin/sabic_in_sabic_cc_compressed.pdf#page=154).However, the retrieved documents do not explicitly detail how this fixed Board remuneration structure is directly linked to or justified by specific performance metrics such as LTM ROIC or Free Cash Flow Conversion for LPs. While the policy aims to motivate objective achievement and business growth, it does not outline performance-based incentives for the Board that would directly tie their compensation to these financial outcomes.In contrast, the remuneration for Senior Executives explicitly includes variable compensation, comprising short-term and long-term incentive plans, which are linked to both financial and non-financial performance measures, including key financial, operational, and environmental/sustainability focus areas [3](https://s3-qa-8byte.s3.ap-south-1.amazonaws.com/sabic%2Fin%2Fsabic_in_sabic_cc_compressed.pdf#page=157). This distinction highlights that performance-based incentives are applied to executive management but not to the Board members, based on the provided information.Given the fixed nature of Board remuneration, your concern about the structure potentially incentivizing tenure over performance, and its impact on the valuation thesis, appears to be consistent with the details provided in the remuneration disclosures. To fully justify this structure's alignment with LTM ROIC and Free Cash Flow Conversion, management would need to articulate how fixed compensation for Board oversight directly translates into these performance metrics, beyond the general principles stated in the remuneration policy.
-
----
 
 ### Board Remuneration: Liquidity & De-Pegging Risk
 
